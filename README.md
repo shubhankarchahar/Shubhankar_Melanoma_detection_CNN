@@ -1,1 +1,0 @@
-# Shubhankar_Melanoma_detection_CNN
